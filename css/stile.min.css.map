@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/stile.sass"
+    ],
+    "names": [],
+    "file": "stile.min.css"
+}
