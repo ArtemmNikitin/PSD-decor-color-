@@ -694,13 +694,56 @@ footer{
 
 	width: 100%;
 	min-height: 246px;
+	color:#fff;
+	padding-top: 50px;
 }
+
+.footer-wrapper {
+	display: flex;
+	justify-content: space-between;
+	min-height: 146px;
+	max-width: 1110px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer-contacts{
+	display: flex;
+	justify-content: space-between;
+	width: 555px;
+}
+
+.footer-contacts__contacts{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items:start;
+	width: 100%;
+
+}
+
 .map{
 	border-radius: 20px;
+	height: 146px;
 }
+
 .footer-contacts__title{
 	color:#fff;
-	
+}
+
+.nav__link{
+	display: inline-block;
+}
+
+.footer-contacts__general-contacts{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items:end;
+	width: 50%;
+	height: inherit;
+
+	margin-right: 131px;
 }
 
 
